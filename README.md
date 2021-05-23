@@ -78,3 +78,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedrafeeqma&show_icons=true&locale=en" alt="mohammedrafeeqma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedrafeeqma&" alt="mohammedrafeeqma" /></p>
+
+<!-- Feel free to reach out and introduce yourself :D-->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to connect me.</b> 😊</em>
