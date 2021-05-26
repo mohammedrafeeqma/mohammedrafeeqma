@@ -38,7 +38,7 @@
 </a>
 
 <a href="https://projecteuler.net/progress" title='ProjectEuler'>
-    <img align="left" alt="Avi's ProjectEuler" width="40px" src="https://nl.mathworks.com/images/responsive/supporting/matlabcentral/cody/badges/project_euler.png" />
+    <img align="left" alt="Rafeeeq's ProjectEuler" width="40px" src="https://nl.mathworks.com/images/responsive/supporting/matlabcentral/cody/badges/project_euler.png" />
 </a>    
 <a href="https://sapient.udemy.com/user/rafeeqma/" title='Udemy'>
     <img align="left" alt="Avi's Udemy" width="40px" src="https://cdn.worldvectorlogo.com/logos/udemy-1.svg" />
