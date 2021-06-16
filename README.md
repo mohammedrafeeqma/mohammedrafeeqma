@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafeeq MA</h1>
 <h3 align="center">A passionate Programmer from India</h3>
+<img align="center" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedrafeeqma&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedrafeeqma" /> </p>
 </br>
