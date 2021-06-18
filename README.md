@@ -6,8 +6,6 @@
 </br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedrafeeqma" alt="mohammedrafeeqma" /></a> </p>
 </br>
-<p align="left"> <a href="https://twitter.com/rafeeq06276306" target="blank"><img src="https://img.shields.io/twitter/follow/rafeeq06276306?logo=twitter&style=for-the-badge" alt="rafeeq06276306" /></a> </p>
-</br>
 - 💬 Ask me about **any tech related stuff**
 
 - ⚡ Fun fact **I think I am funny XD**
