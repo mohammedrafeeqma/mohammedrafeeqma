@@ -4,12 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedrafeeqma&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedrafeeqma" /> </p>
 </br>
+- 💬 Ask me about **any tech related stuff**
+</br>
+ - ⚡ Fun fact **I think I am funny XD**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=FaizArifUP&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </br>
-- 💬 Ask me about **any tech related stuff**
 
-- ⚡ Fun fact **I think I am funny XD**
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
