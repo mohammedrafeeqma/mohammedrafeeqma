@@ -8,7 +8,7 @@
 </br>
  - ⚡ Fun fact **I think I am funny XD**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FaizArifUP&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohammedrafeeqma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </br>
 
 
